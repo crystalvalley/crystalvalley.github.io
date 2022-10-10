@@ -1,0 +1,13 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "W8G7J55URY.jp.co.softbank.NFCScanner",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
